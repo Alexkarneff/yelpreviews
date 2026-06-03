@@ -1,2 +1,4 @@
 .envyelp
 datasets
+__pycache__/
+.gradio/

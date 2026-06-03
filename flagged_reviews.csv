@@ -1,0 +1,7 @@
+Text,Model,Prediction,Timestamp
+The weather is okay today.,Flair,POSITIVE Sentiment (Score: 0.87),2026-06-03T16:12:29
+I'm not sure how I feel about this.,TextBlob,Negative Sentiment (Polarity: -0.25),2026-06-03T16:14:25
+"The service was average, nothing special.",TextBlob,Positive Sentiment (Polarity: 0.10),2026-06-03T16:14:56
+"The service was average, nothing special.",TextBlob,Review flagged and saved.,2026-06-03T16:15:06
+I'm not sure how I feel about this.,Flair,NEGATIVE Sentiment (Score: 1.00),2026-06-03T16:15:56
+"The service was average, nothing special.",Flair,Review flagged and saved.,2026-06-03T16:16:24
